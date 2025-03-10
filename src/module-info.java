@@ -5,5 +5,7 @@
  * 
  */
 module FlightTicketingSystem {
-	//123
+	requires jakarta.persistence;
+	requires lombok;
+	
 }
